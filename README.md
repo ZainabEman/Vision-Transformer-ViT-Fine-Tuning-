@@ -84,8 +84,8 @@ The fine-tuned Vision Transformer achieved outstanding results:
 
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/yourusername/foodvibe-ai.git
-cd foodvibe-ai
+git clone https://github.com/ZainabEman/Vision-Transformer-ViT-Fine-Tunin.git
+cd Vision-Transformer-ViT-Fine-Tunin
 pip install -r requirements.txt
 ```
 
@@ -131,7 +131,7 @@ This launches a browser-based UI where you can drop images and inspect Top-5 pre
 
 ## 📁 Project Structure
 ```
-foodvibe-ai/
+Vision-Transformer-ViT-Fine-Tuning/
 │
 ├── README.md               # Recruiter-ready project documentation
 ├── requirements.txt         # Project package dependencies
