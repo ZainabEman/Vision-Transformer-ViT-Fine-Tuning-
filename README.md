@@ -1,4 +1,4 @@
-# FoodVibe AI: Vision Transformer (ViT) Fine-Tuning for Food-101 Classification
+# Vision-Transformer-ViT-Fine-Tunin for Food-101 Classification
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-blue)](https://huggingface.co/docs/transformers/index)
