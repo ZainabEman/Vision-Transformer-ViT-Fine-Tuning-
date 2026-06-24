@@ -1,0 +1,21 @@
+# Core Machine Learning & Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+accelerate>=0.25.0
+transformers>=4.36.0
+datasets>=2.15.0
+evaluate>=0.4.1
+
+# Data Processing & Utilities
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=10.0.0
+tqdm>=4.66.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Inference & Web Demo UI
+gradio>=4.0.0
